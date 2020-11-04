@@ -25,7 +25,7 @@ body #wall #tag-2 {
   display: block;
 }
 
-body div#wall div.parent div > #tag-7.slick {
+#tag-7.slick {
   background: url(../images/tag-7.png) no-repeat;
   z-index: 1;
   display: block;
